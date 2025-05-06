@@ -11,5 +11,8 @@
 		<record model="ir.attachment" id="elixir_cafesv.ir_attachment_363_2024411b">
 			<field name="url">/elixir_cafesv/static/src/img/website/three_columns_01.jpg</field>
 		</record>
+		<record model="ir.attachment" id="elixir_cafesv.ir_attachment_319_feeb61c2">
+			<field name="url">/elixir_cafesv/static/src/img/website/s_image_title.jpg</field>
+		</record>
 	</data>
 </odoo>
