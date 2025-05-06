@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<odoo>
+	<data>
+	<!-- Los url no tenían ID -->
+		<record model="ir.attachment" id="elixir_cafesv.ir_attachment_365_29642645">
+			<field name="url">/elixir_cafesv/static/src/img/website/three_columns_03.jpg</field>
+		</record>
+		<record model="ir.attachment" id="elixir_cafesv.ir_attachment_364_a7963548">
+			<field name="url">/elixir_cafesv/static/src/img/website/three_columns_02.jpg</field>
+		</record>
+		<record model="ir.attachment" id="elixir_cafesv.ir_attachment_363_2024411b">
+			<field name="url">/elixir_cafesv/static/src/img/website/three_columns_01.jpg</field>
+		</record>
+	</data>
+</odoo>
